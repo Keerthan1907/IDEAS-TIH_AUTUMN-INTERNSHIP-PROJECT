@@ -57,7 +57,7 @@ Enables data-driven pricing strategies for different coffee types.
 
 Demonstrates how statistical testing validates business assumptions.
 
-🤖 Role of LLMs in the Project
+Role of LLMs in the Project
 
 Assist in writing and debugging Python code.
 
@@ -67,8 +67,9 @@ Generate structured reports and documentation.
 
 Suggest effective visualization and analysis strategies.
 
-✅ Conclusion
+Conclusion
 
 The analysis confirmed that coffee sales are time-dependent with a strong mid-day concentration, consistent year-to-year, and varying by product type. These findings can guide coffee shop owners in optimizing operations and boosting revenue.
 
 This project enhanced my data analysis, visualization, and statistical reasoning skills while showing how AI tools can streamline the workflow.
+
